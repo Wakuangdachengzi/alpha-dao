@@ -1,0 +1,33 @@
+{
+  "name": "alpha-dao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wakuangdachengzi/alpha-dao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wakuangdachengzi/alpha-dao/issues"
+  },
+  "homepage": "https://github.com/Wakuangdachengzi/alpha-dao#readme",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts-upgradeable": "^5.0.2",
+    "@openzeppelin/upgrades-core": "^1.32.5",
+    "chai": "^5.1.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.0",
+    "undici": "^6.8.0",
+    "web3": "^1.10.1"
+  }
+}
